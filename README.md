@@ -80,4 +80,4 @@
 ---
 
 ## Fase 3: Prototipado de Media Fidelidad (Wireframes)
-[🔗 Ver prototipos en Figma (Ecocanje)]([https://www.figma.com/design/2cDx3ToZ6Pl12HhILkbTQU/Ecocanje?node-id=0-1&t=77TC2K6Nf5RZq3pt-1](https://www.figma.com/design/ZheGFEoDzcdFFYaY0L9L6C/Sin-t%C3%ADtulo?node-id=6-78&t=2fHv8oyUqIzmoyq1-1))
+[🔗 Ver prototipos en Figma (Ecocanje)](https://www.figma.com/design/ZheGFEoDzcdFFYaY0L9L6C/Sin-t%C3%ADtulo?node-id=6-78&t=2fHv8oyUqIzmoyq1-1)
